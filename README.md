@@ -65,5 +65,4 @@ A brief description of your project. Include what technologies you used and what
 
 ---
 
-##
 🙏 Thank You for visiting! 😄 Feel free to explore more of my work or reach out to collaborate!
