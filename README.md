@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaz-ahmed)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emazahmedshayafuddinchy@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/](https://www.instagram.com/__emzzz___?igsh=OGQ5ZDc2ODk2ZA==))
 
 ---
 
