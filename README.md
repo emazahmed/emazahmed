@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 A brief description of your project. Include what technologies you used and what it does.
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/yourproject)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emazahmed/Connectify)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%23007ACC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 ---
