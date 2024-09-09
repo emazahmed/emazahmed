@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 <div align="center">
 
-### 📌 Featured Project 1: Project Name
+### 📌 Connectify: A Full Stack Social Media App
 
 A brief description of your project. Include what technologies you used and what it does.
 
