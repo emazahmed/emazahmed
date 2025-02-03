@@ -24,22 +24,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <!-- Add more tools or languages as needed -->
 </p>
 
 ---
 
 ## 🚀 Projects
-
-<div align="center">
-
-### 📌 Connectify: A Full Stack Social Media App
-
-A brief description of your project. Include what technologies you used and what it does.
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emazahmed/Connectify)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23007ACC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 ---
 
