@@ -35,10 +35,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 ### 🏨 [Hotel Booking App (React Native Frontend)](https://github.com/emazahmed/hotel-app.git)
 A simple **React Native mobile application** that allows users to browse hotels and book rooms.  
 Includes an **Admin Panel** for managing bookings and hotel listings.  
-- 📱 Built with **React Native**  
-- 🌐 Fetches data from a backend API (frontend only)  
+- 📱 Built with **React Native** 
 - 👤 User features: Browse hotels, book rooms, view confirmations  
-- 🛠️ Admin features: Manage bookings, approve/reject reservations, edit hotel listings  
+- 🛠️ Admin features: Manage bookings, approve/reject reservations
 
 ---
 
